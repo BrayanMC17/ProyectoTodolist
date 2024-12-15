@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.local
+*.env
+*.env.*
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Database files
+*.sqlite3
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+__pycache__/
+
+# Cache files
+.cache/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# System files
+.DS_Store
+Thumbs.db
