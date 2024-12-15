@@ -2,7 +2,7 @@
 
 **Tool List App** es una aplicación de lista de tareas (To-Do List) desarrollada en **Streamlit** con gestión de base de datos utilizando **SQLAlchemy**. Permite **agregar**, **visualizar**, **editar**, **eliminar**, e **importar/exportar tareas** en formato JSON.
 
-![AddTask](img/Menu.png)
+![AddTask](img/menu.png)
 
 ---
 
